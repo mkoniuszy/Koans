@@ -18,6 +18,7 @@ public class CommandLineArgument implements Runnable, Comparable<CommandLineArgu
 		this.isPlantedByApp = isPlantedByApp;
 	}
 
+
 	public String[] getValues() {
 		return values;
 	}
