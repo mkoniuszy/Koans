@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <packages>
-    <!--<package pkg="beginner" name="Novice">-->
-        <!--<suite class="AboutKoans">-->
+    <package pkg="beginner" name="Novice">
+        <!--&lt;!&ndash;<suite class="AboutKoans">&ndash;&gt;-->
         <!--<koan name="findAboutKoansFile" displayIncompleteKoanException="false" />-->
         <!--<koan name="definitionOfKoanCompletion" displayIncompleteKoanException="false" />-->
-        <!--</suite>-->
+        <!--&lt;!&ndash;</suite>&ndash;&gt;-->
         <!--<suite class="AboutAssertions"/>-->
         <!--<suite class="AboutEquality"/>-->
         <!--<suite class="AboutStrings"/>-->
-        <!--<suite class="AboutArithmeticOperators"/>-->
+        <suite class="AboutArithmeticOperators"/>
         <!--<suite class="AboutConditionals"/>-->
         <!--<suite class="AboutLoops" />-->
         <!--<suite class="AboutPrimitives" />-->
@@ -20,14 +20,14 @@
         <!--<suite class="AboutExceptions"/>-->
         <!--<suite class="AboutMethodPreference"/>-->
         <!--<suite class="AboutBitwiseOperators"/>-->
-        <!--<suite class="AboutArrays"/>-->
+        <suite class="AboutArrays"/>
         <!--<suite class="AboutVarArgs"/>-->
-    <!--</package>-->
+    </package>
     <package pkg="intermediate" name="Intermediate">
         <!--<suite class="AboutAutoboxing"/>-->
         <suite class="AboutCollections"/>
         <suite class="AboutComparison"/>
-        <suite class="AboutDates"/>
+        <!--<suite class="AboutDates"/>-->
         <!--<suite class="AboutEquality"/>-->
         <!--<suite class="AboutFileIO"/>-->
         <!--<suite class="AboutInnerClasses"/>-->
