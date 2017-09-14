@@ -5,7 +5,7 @@
         <!--<koan name="findAboutKoansFile" displayIncompleteKoanException="false" />-->
         <!--<koan name="definitionOfKoanCompletion" displayIncompleteKoanException="false" />-->
         <!--&lt;!&ndash;</suite>&ndash;&gt;-->
-        <!--<suite class="AboutAssertions"/>-->
+        <suite class="AboutAssertions"/>
         <!--<suite class="AboutEquality"/>-->
         <!--<suite class="AboutStrings"/>-->
         <suite class="AboutArithmeticOperators"/>
@@ -19,7 +19,7 @@
         <!--<suite class="AboutEnums"/>-->
         <!--<suite class="AboutExceptions"/>-->
         <!--<suite class="AboutMethodPreference"/>-->
-        <!--<suite class="AboutBitwiseOperators"/>-->
+        <suite class="AboutBitwiseOperators"/>
         <suite class="AboutArrays"/>
         <!--<suite class="AboutVarArgs"/>-->
     </package>
